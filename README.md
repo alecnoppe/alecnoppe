@@ -1,5 +1,5 @@
 # Hello there! 👋
- I am Alec, a PhD Student  at the University of Amsterdam. My PhD is on the topic of *Generative AI for Inverse Design of Molecules and Materials*, under supervision of Dr. ir. Bernd Ensing & Dr. Patrick Forré.
+ I am Alec, a PhD Student  at the University of Amsterdam. My PhD is on the topic of *Generative AI for Inverse Design of Molecules and Materials*, under supervision of Prof. Dr. ir. Bernd Ensing & Dr. Patrick Forré.
 
 ### Research Interests
 - Generative AI for Molecules/Materials
